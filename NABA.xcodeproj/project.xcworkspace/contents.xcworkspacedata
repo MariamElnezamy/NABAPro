@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../MainPageViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../../../../Pictures/Photos Library.photoslibrary">
+   </FileRef>
+   <FileRef
+      location = "self:NABA.xcodeproj">
+   </FileRef>
+</Workspace>
